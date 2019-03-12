@@ -1,0 +1,25 @@
+{
+  "name": "techno-test",
+  "version": "1.0.0",
+  "description": "Hosting Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thephenom1708/techno-test.git"
+  },
+  "author": "ThePhenom1708",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thephenom1708/techno-test/issues"
+  },
+  "homepage": "https://github.com/thephenom1708/techno-test#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongodb": "^3.1.13",
+    "mongoose": "^5.4.18"
+  }
+}
