@@ -1,2 +1,2 @@
 # techno-test
-TechnoTweet 2019 Hosting demo
+TechnoTweet Event 2019 Hosting demo on Heroku
